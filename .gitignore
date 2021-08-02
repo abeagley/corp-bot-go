@@ -1,0 +1,14 @@
+# go stuff
+/bin
+/vendor
+
+# editor stuff
+.vscode
+.idea
+
+# misc stuff
+.DS_Store
+
+# environment
+.env
+firebase-creds.json
